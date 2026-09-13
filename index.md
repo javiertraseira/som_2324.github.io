@@ -1,3 +1,9 @@
 # Módulo de Sistemas Operativos Monopuesto (1º SMR)
 
-Contenido del curso 25-26
+## Guía didáctica
+
+![](pdf/Guía_didáctica_SOM_2627.pdf)
+
+----
+
+## Contenido del curso 26-27
